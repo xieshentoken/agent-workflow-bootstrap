@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "policy_version": "draft-1",
+  "approval_status": "PENDING",
+  "approval_ref": null,
+  "execution_mode": "simulate",
+  "external_actions_enabled": false,
+  "automatic_dispatch": false,
+  "authorized_read_roots": [],
+  "authorized_write_roots": [],
+  "data_destinations": [],
+  "max_parallel": 1,
+  "max_attempts": 2,
+  "max_review_rounds": 2,
+  "cost_limit": null,
+  "cost_measurement": "UNKNOWN",
+  "limits_are_enforced": false,
+  "grants": [],
+  "note": "本文件仅为待确认台账，不是权限设施；未指定的数据出口不得假定已许可。"
+}

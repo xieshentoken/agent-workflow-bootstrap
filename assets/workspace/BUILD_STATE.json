@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "skill_version": "0.1.0",
+  "stage": "S3",
+  "stage_status": "IN_PROGRESS",
+  "revision": 1,
+  "runtime_level": "M0",
+  "updated_at": null,
+  "known_answers": {},
+  "approval_ref": null,
+  "evidence_refs": [],
+  "gates": {},
+  "pending_decision": "确认试点目标、数据和边界；模板生成不等于批准。",
+  "next_action": "阅读计划和试点合同；在有效授权内完成一个任务。"
+}

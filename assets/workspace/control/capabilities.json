@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "adapter_id": "unselected",
+  "environment": "UNKNOWN",
+  "model_data_destination": "UNKNOWN",
+  "control_boundary": "UNKNOWN",
+  "capabilities": [
+    {
+      "name": "read_files",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "write_files",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "verify_outputs",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "stop_running_work",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "restrict_writes",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "restrict_data_egress",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "resume",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    },
+    {
+      "name": "external_receipts",
+      "status": "UNKNOWN",
+      "evidence_ref": null
+    }
+  ],
+  "note": "只有实际验证后才改为 VERIFIED。不能用字符串配置证明控制已生效。"
+}

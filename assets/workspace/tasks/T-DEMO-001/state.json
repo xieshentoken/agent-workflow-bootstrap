@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "task_id": "T-DEMO-001",
+  "contract_version": 1,
+  "revision": 1,
+  "state": "DRAFT",
+  "active_run_id": null,
+  "attempt": 0,
+  "block_reason": null,
+  "resume_state": null,
+  "resume_condition": null,
+  "artifact": null,
+  "artifact_sha256": null,
+  "review": {
+    "verdict": "NOT_RUN",
+    "kind": "UNSPECIFIED",
+    "evidence_ref": null
+  },
+  "delivery_ref": null,
+  "external_operations": [],
+  "next_action": "核对合同和真实授权；之后执行，不把示例当已完成任务。"
+}
